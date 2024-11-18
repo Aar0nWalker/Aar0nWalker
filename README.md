@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	
-<a href="https://github.com/Aar0nWalker">![github-header-image](https://user-images.githubusercontent.com/104680900/231655181-a636d010-ca7a-404e-bdc2-1bb672c50df1.png)
+<a href="https://github.com/Aar0nWalker">![github-header-image](./github-header-image.png.png)
 </a>
 	
 <a href="https://github.com/Aar0nWalker"><img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&duration=2500&pause=4000&color=2671FF&background=FF050500&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+my+profile!;Developing+since+2021;Experienced+in+Sonala%2C+EVM%2C+TVM;Always+learning+new+stack;Middle+Web+Developer" alt="Typing SVG" /></a>
