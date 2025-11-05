@@ -8,8 +8,10 @@
 <h2>:hatching_chick: My specs:</h2>
 	
 <p><b>:heavy_check_mark: Blockchain</b></p>
+<p><b>:heavy_check_mark: Frontend</b></p>
 <p><b>:heavy_check_mark: Backend</b></p>
 <p><b>:heavy_check_mark: Gamedev</b></p>
+<p><b>:heavy_check_mark: Mobile Apps</b></p>
 
 <h2></h2>
 
